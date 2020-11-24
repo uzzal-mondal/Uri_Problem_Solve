@@ -2,7 +2,7 @@ package Uri._1_July;
 
 import java.util.Scanner;
 
-public class FirstProgram {
+class FirstProgram {
 
     public static void main(String[] args) {
 
