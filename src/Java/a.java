@@ -4,14 +4,13 @@ import java.util.Scanner;
 
 public class a {
     public static void main(String[] args) {
-       //5=5*4*3*2*1;
-        int n, fac= 1;
-        Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
 
-        for (int i = 1; i<=n; i++){
-            fac = fac * i;
-            System.out.println(fac);
+        for (int i = 0; i < 5; i++) {
+            for (int j = 0; j < 5; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
         }
+
     }
 }
