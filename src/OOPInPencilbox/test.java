@@ -1,2 +1,4 @@
-package OOPInPencilbox;public class test {
+package OOPInPencilbox;
+
+public class test {
 }

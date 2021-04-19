@@ -1,35 +1,35 @@
 package BITMJava21.Association_Day_04.Asociation5;
 
-public class StudentContact {
-    private String phnNum;
-    private String address;
+public class StudentAccount {
+    private String accountName;
+    private String accountBalance;
 
-    public StudentContact(String phnNum, String address) {
-        this.phnNum = phnNum;
-        this.address = address;
+    public StudentAccount(String accountName, String accountBalance) {
+        this.accountName = accountName;
+        this.accountBalance = accountBalance;
     }
 
-    public String getPhnNum() {
-        return phnNum;
+    public String getAccountName() {
+        return accountName;
     }
 
-    public void setPhnNum(String phnNum) {
-        this.phnNum = phnNum;
+    public void setAccountName(String accountName) {
+        this.accountName = accountName;
     }
 
-    public String getAddress() {
-        return address;
+    public String getAccountBalance() {
+        return accountBalance;
     }
 
-    public void setAddress(String address) {
-        this.address = address;
+    public void setAccountBalance(String accountBalance) {
+        this.accountBalance = accountBalance;
     }
 
     @Override
     public String toString() {
-        return "StudentContact{" +
-                "phnNum='" + phnNum + '\'' +
-                ", address='" + address + '\'' +
+        return "StudentAccount{" +
+                "accountName='" + accountName + '\'' +
+                ", accountBalance='" + accountBalance + '\'' +
                 '}';
     }
 }

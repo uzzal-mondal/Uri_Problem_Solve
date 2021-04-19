@@ -2,12 +2,12 @@ package Uri._6_December;
 
 import java.util.Scanner;
 
-public class LucasNumTest {
+public class ArrayMaxNum {
     public static void main(String[] args) {
 
         //user input greater and smaller num showing..:)
-        int[] arrayOfNum = new int[6];
-        int testNum, max, i, j;
+        int[] arrayOfNum = new int[100];
+        int testNum, max, min, i, j;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your test num ");
         testNum = sc.nextInt();

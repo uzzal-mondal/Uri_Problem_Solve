@@ -1,4 +1,4 @@
 package Hacker_Rank.RankTestCode;
 
-public class InstanceOfOperatorTest {
+public class IO {
 }

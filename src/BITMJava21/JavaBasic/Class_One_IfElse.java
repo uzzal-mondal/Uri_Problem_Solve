@@ -2,7 +2,7 @@ package BITMJava21.JavaBasic;
 
 import java.util.Scanner;
 
-public class Class_One {
+public class Class_One_IfElse {
     public static void main(String[] args) {
 
         int[] arrayOfNum = new int[100];

@@ -1,15 +1,15 @@
 package BITMJava21.Association_Day_04.OneToOneAs;
 
-public class Department {
+public class StudentDepartment {
     private String dept_name;
     private String class_room;
     private String lead_trainer;
 
-    public Department() {
+    public StudentDepartment() {
 
     }
 
-    public Department(String dept_name, String class_room, String lead_trainer) {
+    public StudentDepartment(String dept_name, String class_room, String lead_trainer) {
         this.dept_name = dept_name;
         this.class_room = class_room;
         this.lead_trainer = lead_trainer;
@@ -39,7 +39,8 @@ public class Department {
         this.lead_trainer = lead_trainer;
     }
 
-    public String getInfo() {
+
+    public String showInfo() {
         return dept_name + " , " + class_room + " , " + lead_trainer;
     }
 }

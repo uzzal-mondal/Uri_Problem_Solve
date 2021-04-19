@@ -1,4 +1,4 @@
-package BITMJava21.Association;
+package BITMJava21.Association_Day_04;
 
 public class StudentAddress {
     private String city;

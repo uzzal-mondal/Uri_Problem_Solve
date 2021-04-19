@@ -1,2 +1,4 @@
-package Java.Array.January.Algorithm;public class al {
+package Java.Array.January.Algorithm;
+
+public class al {
 }

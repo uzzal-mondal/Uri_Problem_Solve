@@ -1,4 +1,4 @@
-package Java.Array.Fibonacci;
+package Java.Array.January.Fibonacci;
 
 public class Fibo {
     public static void main(String[] args) {

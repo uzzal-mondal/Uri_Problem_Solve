@@ -1,8 +1,7 @@
 package A.FebruaryExamJavaRabbilSir.Rabil.Interface;
 
-public interface InterfaceCalass {
-
-     void showInter();
+public interface FirstClass {
+    void showInter();
 }
 
 interface second{

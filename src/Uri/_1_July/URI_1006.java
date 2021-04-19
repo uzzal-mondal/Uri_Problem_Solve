@@ -3,7 +3,7 @@ package Uri._1_July;
 import java.util.Scanner;
 
 public class URI_1006 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         double A, B, C, AVG;
         Scanner sc = new Scanner(System.in);

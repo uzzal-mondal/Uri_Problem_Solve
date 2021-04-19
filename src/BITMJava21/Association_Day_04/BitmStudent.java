@@ -1,11 +1,11 @@
-package BITMJava21.Association;
+package BITMJava21.Association_Day_04;
 
 public class BitmStudent {
     private String studentName;
     private int age;
     private int seId;
     private String phnNum;
-    private StudentAddress studentAddress;
+    private StudentAddress studentAddress; //on to one association.
 
     public BitmStudent() {
 

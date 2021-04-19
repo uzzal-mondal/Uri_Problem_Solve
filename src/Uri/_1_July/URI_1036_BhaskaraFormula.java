@@ -15,9 +15,9 @@ public class URI_1036_BhaskaraFormula {
         n = (B * B) - (4 * A * C);
 
         if (n < 0) {
-            System.out.printf("Impossivel calcular\n");
+            System.out.print("Impossivel calcular\n");
         } else if (A == 0) {
-            System.out.printf("Impossivel calcular\n");
+            System.out.print("Impossivel calcular\n");
         } else {
 
             p = ((-B) + Math.sqrt(n)) / (2 * A);

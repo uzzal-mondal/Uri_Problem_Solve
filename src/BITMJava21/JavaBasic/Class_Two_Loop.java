@@ -1,6 +1,6 @@
 package BITMJava21.JavaBasic;
 
-public class Class_Two {
+public class Class_Two_Loop {
     public static void main(String[] args) {
 
         int i = 0;

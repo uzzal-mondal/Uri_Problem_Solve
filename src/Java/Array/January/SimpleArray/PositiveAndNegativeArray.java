@@ -1,4 +1,4 @@
-package Java.January.SimpleArray;
+package Java.Array.January.SimpleArray;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Java.Array.January.ArrayInAscending;
+package Java.Array.January.Algorithm.BubbleSearch;
 
 import java.util.Scanner;
 

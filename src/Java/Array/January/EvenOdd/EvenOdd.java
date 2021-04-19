@@ -1,4 +1,4 @@
-package Java.January.EvenOdd;
+package Java.Array.January.EvenOdd;
 
 import java.util.Scanner;
 

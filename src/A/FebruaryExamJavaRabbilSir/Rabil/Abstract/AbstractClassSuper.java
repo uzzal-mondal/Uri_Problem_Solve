@@ -1,2 +1,5 @@
-package A.FebruaryExamJavaRabbilSir.Rabil.Abstract;public class AbstractClassSuper {
+package A.FebruaryExamJavaRabbilSir.Rabil.Abstract;
+
+public class AbstractClassSuper {
+
 }
