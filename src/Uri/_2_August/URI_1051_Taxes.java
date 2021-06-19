@@ -15,7 +15,7 @@ public class URI_1051_Taxes {
             System.out.println("Isento");
         } else if (num > 2000.00 && num <= 3000.00) {
             num = num - 2000.00;
-            num = num * 8 / 100;
+            num = num * 8 / 100;  // say 20002 - 2000 - 2 tk tax 8 %
             System.out.printf("R$ %.2f\n",num);
         } else if (num > 3000.00 && num <= 4500.00) {
             num = num - 3000.00;
